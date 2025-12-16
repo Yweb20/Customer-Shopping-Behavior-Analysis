@@ -1,3 +1,5 @@
+![image alt](https://github.com/Yweb20/Customer-Shopping-Behavior-Analysis/blob/12d38f7cd1bd896655fa49cae8c6997dbbad1bb7/customer%20shopping.jpg)
+
 Customer Shopping Behavior Analysis
 
 Overview
